@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool:  qwerty1
+pool:  linux
 
 steps:
 - task: Maven@3
